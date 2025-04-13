@@ -1,4 +1,4 @@
-# 🏆 Sayembara Web IMPHEN 🕸️
+# 🏆 Sayembara Web IMPHNEN 🕸️
 
 Selamat datang di proyek web paling absurd seantero Nusantara: **Sayembara Grup Facebook IMPHNEN**.
 
@@ -24,7 +24,7 @@ Proyek ini adalah bagian dari **sayembara** di grup Facebook IMPHNEN. Tujuannya?
 
 ```
 
-/proyek-sayembara-imphen/
+/proyek-sayembara-imphnen/
 
 │
 
