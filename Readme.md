@@ -1,14 +1,14 @@
 # 🏆 Sayembara Web IMPHEN 🕸️
 
-Selamat datang di proyek web paling absurd seantero Nusantara: **Sayembara Grup Facebook IMPHEN**.
+Selamat datang di proyek web paling absurd seantero Nusantara: **Sayembara Grup Facebook IMPHNEN**.
 
 Dibuat dengan cinta, kopi sachet, dan niat bercanda — karena serius itu cuma pas ujian.
 
 ## 📜 Deskripsi Proyek
 
-Ini bukan sembarang HTML. Ini adalah _mahakarya_ yang memuat:
+Ini bukan sembarang landing page. Ini adalah _mahakarya_ yang memuat:
 
-- Sebuah `embed` file misterius bernama `body.txt` (isinya? Rahasia Illahi).
+- Sebuah `embed` file misterius bernama `body.txt` (isinya? Ya gitu).
 
 - Dua link sakral:
 
@@ -18,7 +18,7 @@ Ini bukan sembarang HTML. Ini adalah _mahakarya_ yang memuat:
 
 ## 🎯 Tujuan
 
-Proyek ini adalah bagian dari **sayembara** di grup Facebook IMPHEN. Tujuannya? Siapa tahu. Yang penting bikin dulu, nanya belakangan. Yang penting _niat_, bukan _fitur_.
+Proyek ini adalah bagian dari **sayembara** di grup Facebook IMPHNEN. Tujuannya? Siapa tahu. Yang penting bikin dulu, nanya belakangan. Yang penting _niat_, bukan _fitur_.
 
 ## 📦 Struktur File
 
@@ -34,13 +34,9 @@ Proyek ini adalah bagian dari **sayembara** di grup Facebook IMPHEN. Tujuannya? 
 
 ```
 
-## 🚀 Cara Menjalankan
+## 🚀 Demo
 
-1. Download / clone repo ini.
-
-2. Buka `index.html` di browser favoritmu (kami sarankan yang bisa buka file .txt tanpa ngambek).
-
-3. Klik link-link keramat dan biarkan dunia tahu kamu bagian dari revolusi digital lokal.
+Cobain klik sini aja : https://y2mulyana.github.io/Imphen-2025/.
 
 ## 🤡 Catatan Penting
 
